@@ -1,2 +1,2 @@
-# eon_HTML-CSS_TemplateOne
+# HTML-CSS_TemplateOne
  
